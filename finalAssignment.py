@@ -12,7 +12,7 @@ def addition(firstNumber, secondNumber):
 
 # This function takes two numbers, subracts them, and returns the new value
 def subtraction(firstNumber, secondNumber):
-    difference = float(firstNumber) - float(secondNumber)
+    difference = float(secondNumber) - float(firstNumber)
 
     return difference
 
